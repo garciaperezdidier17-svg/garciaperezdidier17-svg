@@ -63,7 +63,7 @@ Puedes explorar mis repositorios aquí:
 ---
 
 <p align="center">
-  <i>"Cada línea de código es una oportunidad para crear algo extraordinario."</i>
+  <i> "Si lo puedes imaginar, lo puedes programar."</i>
 </p>
 
 <p align="center">

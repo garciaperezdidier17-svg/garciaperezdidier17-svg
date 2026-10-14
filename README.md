@@ -1,16 +1,44 @@
-## Hi there 👋
+# ¡Hola! Soy Didier García 👋
 
-<!--
-**garciaperezdidier17-svg/garciaperezdidier17-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desarrollador de software en formación
 
-Here are some ideas to get you started:
+Estudiante de programación apasionado por la tecnología, el desarrollo web y la creación de soluciones digitales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me gusta aprender cosas nuevas, resolver problemas y convertir mis ideas en proyectos reales.
+
+---
+
+## 🚀 Sobre mí
+
+- 🎓 Estudiante de programación y desarrollo de software.
+- 🌐 Aprendiendo y construyendo proyectos web.
+- 🗄️ Explorando el desarrollo de aplicaciones conectadas a bases de datos.
+- 🧠 Mejorando mis habilidades de lógica y programación.
+- 🎯 Mi objetivo: convertirme en un gran desarrollador de software.
+
+## 🛠️ Tecnologías y herramientas
+
+- **Frontend:** HTML, CSS, JavaScript.
+- **Backend:** PHP.
+- **Bases de datos:** MySQL.
+- **Control de versiones:** Git y GitHub.
+
+## 📂 Mis proyectos
+
+- 🍔 **Comida rápida:** proyecto web relacionado con productos de comida.
+- 💻 **MIC:** proyecto web relacionado con un inventario institucional.
+
+## 📈 Actualmente estoy aprendiendo
+
+Desarrollo web, buenas prácticas de programación, bases de datos y control de versiones.
+
+## 🤝 Conecta conmigo
+
+- GitHub: [@garciaperezdidier17-svg](https://github.com/garciaperezdidier17-svg)
+- - 📧 **Correo:** [Contáctame](garciaperezdidier@gmail.com)
+
+---
+
+> "Cada línea de código es una oportunidad para crear algo mejor."
+
+⭐ Gracias por visitar mi perfil.

@@ -31,8 +31,8 @@
 ### 🍔 Comida rápida
 Proyecto web relacionado con la presentación de productos de comida.
 
-### 💜 For You
-Proyecto personal de desarrollo web.
+### 💜 MIC
+Proyecto Web relacionado con un inventario institucional.
 
 Puedes explorar mis repositorios aquí:
 
